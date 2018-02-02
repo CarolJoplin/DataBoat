@@ -28,6 +28,7 @@ Terminal for Mac/Linux, PuTTY for Windows
 ## Authors and Developers 
 
 **Emma DeLucchi** - *Back End Development* - (https://github.com/eldelucchi)
+
 **Carol Joplin** - *Front End Development* - (https://github.com/CarolMaria)
 
 
@@ -37,7 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* 
-* 
-* 
+* A nod to Jesus, and our Mothers.
+* Without them, we, much like ERGs, would be unable to float.
 
